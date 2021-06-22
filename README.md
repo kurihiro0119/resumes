@@ -1,10 +1,4 @@
-# { name } resume
-
-## Sample
-
-https://github.com/kawamataryo/resume
-
-## Features
+# resume
 
 ### 💅 Lint text
 
