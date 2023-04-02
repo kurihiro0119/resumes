@@ -1,5 +1,7 @@
 # resume
 
+My resume: https://kurihiro0119.github.io/resumes/
+
 ### 💅 Lint text
 
 Automatic proofreading with [textlint](https://github.com/textlint/textlint).
